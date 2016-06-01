@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-sampleslim",
+    "version"      : "1.0.0",
+    "description"  : "A sample sampleslim node for node-red",
+    "dependencies": {
+    },
+    "keywords": [ "node-red" ],
+    "node-red"     : {
+        "nodes": {
+            "sample": "sample/99-sample.js"
+        }
+    }
+}
